@@ -4,5 +4,5 @@
 
 **Keep in mind that some content is inappropiate for people under 13 years old!**
 
-# DMCA
+# Copyright
 if you're a copyright holder of any of these images please [contact](https://twitter.com/Copy2oo5) me immediantly.
