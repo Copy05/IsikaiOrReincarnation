@@ -1,0 +1,88 @@
+@font-face {
+    font-family: "Montserrant";
+    src: url('./fonts/Montserrat-Bold.ttf');
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+html {
+    background-color: black;
+}
+
+div {
+    height: 100vh;
+}
+
+#gamecanvas {
+    display: flex;
+    position: relative;
+}
+
+#option1 {
+    transition: 0.2s ease-in-out;
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 50%;
+    flex-grow: 1;
+    word-wrap: break-word;
+}
+
+#option2 {
+    transition: 0.2s ease-in-out;
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 50%;
+    flex-grow: 1;
+    word-wrap: break-word;
+}
+
+#option1:hover, #option2:hover {
+    scale: 105%;
+}
+
+#option1title, #option2title {
+    margin: 0px 50px;
+    position: relative;
+    top: 50%;
+    text-align: center;
+    transform: translateY(-50%);   
+    font-family: "Montserrant";
+    color: white;
+    font-size: 30px;
+}
+
+.opt1ab, .opt2ab {
+    position: relative;
+    font-family: "Montserrant";
+    color: white;
+    top: 5%;
+    font-size: 30px;
+    text-align: center;
+}
+
+@keyframes fade-out {
+    from {
+      opacity: 100%;
+    }
+    to {
+      opacity: 0%;
+    }
+}
+  
+@keyframes fade-in {
+    from {
+      opacity: 0%;
+    }
+    to {
+      opacity: 100%;
+    }
+}

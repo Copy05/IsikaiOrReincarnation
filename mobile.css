@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "Montserrat";
+    src: url('./fonts/Montserrat-Bold.ttf');
+    font-weight: 600;
+}
+
+@media only screen and (max-width: 500px) {
+    #gamecanvas {
+        display: block;
+    }
+
+    #option1 {
+        width: 100vh;
+        max-width: 100%;
+        max-height: 50%;
+    }
+    
+    #option2 {
+        width: 100vh;
+        max-height: 50%;
+        max-width: 100%;
+    }
+    
+    #option1:hover, #option2:hover {
+        scale: 105%;
+    }
+    
+    #option1title, #option2title {
+        margin: 0px 20px;
+        font-size: 20px;
+    }
+    
+    .opt1ab, .opt2ab {
+        font-size: 20px;
+    }
+}
