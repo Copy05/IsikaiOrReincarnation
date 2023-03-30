@@ -21,7 +21,7 @@ const isekai = [
     "A world where every girl wants you. (sexually)",
     "A world where you everything gets decided by gambling",
     "A video game world which became realistic after the servers got closed (Overwatch)",
-    "The Detective Conan Universe but your inteligence is the same of shinichi kudo",
+    "The Detective Conan Universe but your inteligence is the same of Shin’ichi Kudō",
     "In the world of your favorite anime with your friends",
     "A fantasy world where you can respawn infinitly (RE:ZERO)",
     "A world where you can prove your love to your crush by protecting her from a evil clan that wants you both dead",
