@@ -24,13 +24,12 @@
     #option1:hover, #option2:hover {
         scale: 105%;
     }
+
+    #option1title, #option2title, .opt1ab, .opt2ab {
+        font-size: 18px;
+    }
     
     #option1title, #option2title {
         margin: 0px 20px;
-        font-size: 20px;
-    }
-    
-    .opt1ab, .opt2ab {
-        font-size: 20px;
     }
 }

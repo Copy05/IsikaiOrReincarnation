@@ -29,7 +29,21 @@ const isekai = [
     "A world which you're immortal but you lost all your emotions (The Daily Life of the Immortal King)",
     "A fantasy world where you have to fight evil magicians but you got the ability to teleport and a magical sword",
     "A world where you a have cute and hot blood related sister",
-    "In the world of your favorite ecchi anime but you have a weakness for nudity and love"
+    "In the world of your favorite ecchi anime and you have daily sex with the hottest girl you like.",
+    "A world where you have to protect your sister from a evil group that wants her dead",
+    "A world where you're the president",
+    "A pararell universe where you're very powerful and you're not allowed to show your identity because you're concidered as thread and targetted for elimination",
+    "In the same world but your skills are too powerful and concidered as a thread but a cute girl is on your side",
+    "In a fantasy world where you get summoned as a demon lord (How NOT to Summon a Demon Lord)",
+    "In the Naruto universe but you're not allowed to show your identity because you're getting hunted",
+    "In a pararell universe where twitter, tiktok & reddit dosn't exists",
+    "In a pararell universe where you live with your crush together but you both aren't in a relationship",
+    "In a world with only 1 nation",
+    "In a fantasy world but you can take your phone with you and it has WI-FI and it never runs out of battary (In Another World With My Smartphone)",
+    "In a world where you have the power to create shields, explosions & able to teleport but if you see someone you love getting hurt you'll lose control of yourself.",
+    "You'll get trapped in a video game world but that game is your favorite game (No Game No Live)",
+    "In a pararell universe where lots of girls wants to be your girlfriend",
+    "In a world where everywhere are cute kittens",
 ]
 
 const isekaisrc = [
@@ -49,6 +63,20 @@ const isekaisrc = [
     "./src/isekai/teleportationanim.png",
     "./src/isekai/MioNaruse.png",
     "./src/isekai/TMIHRIM_Lilith.png",
+    "./src/isekai/sislove.png",
+    "./src/isekai/president.png",
+    "./src/isekai/takigawattosnd.png",
+    "./src/isekai/Shera_l._greenwood_6.png",
+    "./src/isekai/demonlordkun.png",
+    "./src/isekai/tobinaruto.png",
+    "./src/isekai/nosmedia.png",
+    "./src/isekai/livingwithyogirl.png",
+    "./src/isekai/worldwithonly1nation.png",
+    "./src/isekai/ifrikineedmyphor.png",
+    "./src/isekai/averageboymage.png",
+    "./src/isekai/ngnl.png",
+    "./src/isekai/animeharemg.png",
+    "./src/isekai/worldofkittens.png",
 ]
 
 const reincarnation = [
@@ -62,11 +90,28 @@ const reincarnation = [
     "As a cute and beautiful girl (Date A Live)",
     "As a powerful mage but you often cannot control your magic and there's a small chance that you nuke the whole world",
     "As a tree",
-    "As a human but you're in spectator mode. and only can see what that human does.",
+    "In someone's body but you only can watch them doing stuff",
     "As your crush's cat",
     "As a cute kitty",
     "Reborn as a attractive asian boy",
     "As a attractive & cute boy that attracts every girl",
+    "As a powerful & cute female mage",
+    "As a chair",
+    "As a powerful and attractive magician but you're bond to a wheelchair",
+    "Reborn as someone who looks like Toru Amuro and has the same knowledge (Detective Conan)",
+    "As a undercover demon lord who works at McDonalds (The Devil Is a Part-Timer!)",
+    "As someone who looks similar to Shin’ichi Kudō and has the same knowledge (Detective Conan)",
+    "As Mio Naruse and have the same curse (feeling extremely sensitive and horny) but it only triggers when you feel lonely (The Testament Of Sister New Devil)",
+    "As a bed",
+    "As your crush's back & front phone camera",
+    "As Tohka Yatogami but without spirit powers (Date a live)",
+    "As a object that's used for self-pleasure",
+    "As your brother's wife",
+    "As a ghost with the abilty to take control of other humans",
+    "As a car",
+    "As a god",
+    "As a table",
+    "As a Vending Mashine (Reborn as a Vending Machine, I Now Wander the Dungeon)",
 ]
 
 const reincarnationsrc = [
@@ -85,6 +130,23 @@ const reincarnationsrc = [
     "./src/reincarnation/cootiekitty.png",
     "./src/reincarnation/TAKUTOasianboy.png",
     "./src/reincarnation/yuutaTheAngel.png",
+    "./src/reincarnation/powerfulfmage.png",
+    "./src/reincarnation/chair.png",
+    "./src/reincarnation/afopow.png",
+    "./src/reincarnation/Tooru_Amuro_Profile.png",
+    "./src/reincarnation/l-intro-1619444419.png",
+    "./src/reincarnation/shinichikudo2.png",
+    "./src/reincarnation/mio_n2.png",
+    "./src/reincarnation/dondra-teak-queen-bed.png",
+    "./src/reincarnation/phonecam.png",
+    "./src/reincarnation/tohkadal.png",
+    "./src/reincarnation/sestoys.png",
+    "./src/reincarnation/broswif.png",
+    "./src/reincarnation/asaghast.png",
+    "./src/reincarnation/nightcar.png",
+    "./src/reincarnation/animegodness.png",
+    "./src/reincarnation/animetable.png",
+    "./src/reincarnation/wendingmashine.png",
 ]
 
 function Firstrandomize(){
@@ -116,9 +178,7 @@ function randomizeOption1(){
     if(ri == rand_i){
         rand_i = Math.floor(Math.random() * isekai.length)
     }
-
     ri = rand_i;
-    
 
     option1.style.animation = "fade-in 1s ease-in";
     option1title.innerText = isekai[rand_i]
@@ -157,11 +217,4 @@ option2.addEventListener('click', e => {
     option1.style.animation = "fade-out 1s ease-in";
     setTimeout(randomizeOption1, 900)
     
-})
-
-// Debuging.
-document.addEventListener('keypress', e => {
-    if(e.code == "KeyD"){
-        console.log(`Isekai: ${isekai.length}\nReincarnation: ${reincarnation.length}`);
-    }
 })
