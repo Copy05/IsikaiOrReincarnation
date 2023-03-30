@@ -26,10 +26,10 @@ const isekai = [
     "A fantasy world where you can respawn infinitly (RE:ZERO)",
     "A world where you can prove your love to your crush by protecting her from a evil clan that wants you both dead",
     "A pararell universe where your crush is your neighbour",
-    "A world which you're immortal but you lost all your emotions (The Daily Life of the Immortal King)",
+    "A world which you're immortal but you're incapeable of feeling emotions (The Daily Life of the Immortal King)",
     "A fantasy world where you have to fight evil magicians but you got the ability to teleport and a magical sword",
     "A world where you a have cute and hot blood related sister",
-    "In the world of your favorite ecchi anime and you have daily sex with the hottest girl you like.",
+    "In the world of your favorite ecchi anime and you have daily sex with the hottest girl / boy you like.",
     "A world where you have to protect your sister from a evil group that wants her dead",
     "A world where you're the president",
     "A pararell universe where you're very powerful and you're not allowed to show your identity because you're concidered as thread and targetted for elimination",
@@ -44,6 +44,9 @@ const isekai = [
     "You'll get trapped in a video game world but that game is your favorite game (No Game No Live)",
     "In a pararell universe where lots of girls wants to be your girlfriend",
     "In a world where everywhere are cute kittens",
+    "In a pararell universe where there's no school",
+    "In a world where you and your crush are the last survivors on this world",
+    "You’re just dying and landing in heaven",
 ]
 
 const isekaisrc = [
@@ -77,6 +80,9 @@ const isekaisrc = [
     "./src/isekai/ngnl.png",
     "./src/isekai/animeharemg.png",
     "./src/isekai/worldofkittens.png",
+    "./src/isekai/noschool.png",
+    "./src/isekai/worldsendharem.png",
+    "./src/isekai/youdiedlmfaoo.png",
 ]
 
 const reincarnation = [
@@ -112,6 +118,8 @@ const reincarnation = [
     "As a god",
     "As a table",
     "As a Vending Mashine (Reborn as a Vending Machine, I Now Wander the Dungeon)",
+    "As a Sword (reincarnated as a sword)",
+    "As a slime (That Time I Got Reincarnated as a Slime)"
 ]
 
 const reincarnationsrc = [
@@ -147,6 +155,8 @@ const reincarnationsrc = [
     "./src/reincarnation/animegodness.png",
     "./src/reincarnation/animedesk.png",
     "./src/reincarnation/wendingmashine.png",
+    "./src/reincarnation/rebornsword.png",
+    "./src/reincarnation/Slime-803x452.png",
 ]
 
 function Firstrandomize(){
