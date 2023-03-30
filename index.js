@@ -19,14 +19,14 @@ const isekai = [
     "A video game world where you cannot escape but you'll find the love of your life there.",
     "A pararell universe where you're married with your crush",
     "A world where every girl wants you. (sexually)",
-    "A world where you everything gets decided by gambling",
-    "A video game world which became realistic after the servers got closed (Overwatch)",
-    "The Detective Conan Universe but your inteligence is the same of shinichi kudo",
+    "A world where everything gets decided by gambling",
+    "A video game world which became realistic after the servers got closed (Overlord)",
+    "The Detective Conan Universe but your inteligence is the same of Shin’ichi Kudō",
     "In the world of your favorite anime with your friends",
     "A fantasy world where you can respawn infinitly (RE:ZERO)",
     "A world where you can prove your love to your crush by protecting her from a evil clan that wants you both dead",
     "A pararell universe where your crush is your neighbour",
-    "A world which you're immortal but you lost all your emotions (A daily life of a the immortal king)",
+    "A world which you're immortal but you lost all your emotions (The Daily Life of the Immortal King)",
     "A fantasy world where you have to fight evil magicians but you got the ability to teleport and a magical sword",
     "A world where you a have cute and hot blood related sister",
     "In the world of your favorite ecchi anime but you have a weakness for nudity and love"
@@ -59,13 +59,14 @@ const reincarnation = [
     "As yourself but younger (Erased)",
     "As a girl in the same world",
     "As your sister's husband",
-    "As a cute and beatiful girl (Date A Live)",
+    "As a cute and beautiful girl (Date A Live)",
     "As a powerful mage but you often cannot control your magic and there's a small chance that you nuke the whole world",
     "As a tree",
     "As a human but you're in spectator mode. and only can see what that human does.",
     "As your crush's cat",
     "As a cute kitty",
     "Reborn as a attractive asian boy",
+    "As a attractive & cute boy that attracts every girl",
 ]
 
 const reincarnationsrc = [
@@ -83,8 +84,8 @@ const reincarnationsrc = [
     "./src/reincarnation/cutekitty.png",
     "./src/reincarnation/cootiekitty.png",
     "./src/reincarnation/TAKUTOasianboy.png",
+    "./src/reincarnation/yuutaTheAngel.png",
 ]
-
 
 function Firstrandomize(){
     for (let i = 0; i < 620000; i++) {
@@ -134,8 +135,6 @@ function randomizeOption2(){
     if(rr == rand_r){
         rand_r = Math.floor(Math.random() * reincarnation.length)
     }
-
-
     rr = rand_r;
 
     option2.style.animation = "fade-in 1s ease-in";
@@ -159,7 +158,6 @@ option2.addEventListener('click', e => {
     setTimeout(randomizeOption1, 900)
     
 })
-
 
 // Debuging.
 document.addEventListener('keypress', e => {
