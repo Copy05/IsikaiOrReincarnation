@@ -145,7 +145,7 @@ const reincarnationsrc = [
     "./src/reincarnation/asaghast.png",
     "./src/reincarnation/nightcar.png",
     "./src/reincarnation/animegodness.png",
-    "./src/reincarnation/animetable.png",
+    "./src/reincarnation/animedesk.png",
     "./src/reincarnation/wendingmashine.png",
 ]
 
