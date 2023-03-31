@@ -47,6 +47,10 @@ const isekai = [
     "In a pararell universe where there's no school",
     "In a world where you and your crush are the last survivors on this world",
     "You’re just dying and landing in heaven",
+    "In a world where there are bunny girls",
+    "Your whole class gets isekai’d to a fantasy world where you have to free the world from the demon’s curse but you are the most powerful student of the whole class (Arifureta)",
+    "In a pararell universe where there's only USA",
+    "In a world without lies",
 ]
 
 const isekaisrc = [
@@ -83,6 +87,10 @@ const isekaisrc = [
     "./src/isekai/noschool.png",
     "./src/isekai/worldsendharem.png",
     "./src/isekai/youdiedlmfaoo.png",
+    "./src/isekai/bunnychan.png",
+    "./src/isekai/Arifureta.png",
+    "./src/isekai/UnitedStatesFlag.png",
+    "./src/isekai/nolie.png",
 ]
 
 const reincarnation = [
@@ -119,7 +127,13 @@ const reincarnation = [
     "As a table",
     "As a Vending Mashine (Reborn as a Vending Machine, I Now Wander the Dungeon)",
     "As a Sword (reincarnated as a sword)",
-    "As a slime (That Time I Got Reincarnated as a Slime)"
+    "As a slime (That Time I Got Reincarnated as a Slime)",
+    "As a gun",
+    "As a cute dragon girl",
+    "As a Wheelchair",
+    "As a Hero",
+    "As a Flower",
+    "As a Train",
 ]
 
 const reincarnationsrc = [
@@ -157,6 +171,12 @@ const reincarnationsrc = [
     "./src/reincarnation/wendingmashine.png",
     "./src/reincarnation/rebornsword.png",
     "./src/reincarnation/Slime-803x452.png",
+    "./src/reincarnation/gun.png",
+    "./src/reincarnation/DragonGirlTohru.png",
+    "./src/reincarnation/wheelchair.png",
+    "./src/reincarnation/theshieldhero.png",
+    "./src/reincarnation/kornblume110_v-fullhd.png",
+    "./src/reincarnation/animtrain.png",
 ]
 
 function Firstrandomize(){
@@ -193,7 +213,7 @@ function randomizeOption1(){
     option1.style.animation = "fade-in 1s ease-in";
     option1title.innerText = isekai[rand_i]
     option1.style.backgroundImage = `linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.2)), url(${isekaisrc[rand_i]})`;
-    setTimeout(() => { option1.style.animation = ""; }, 1200)
+    setTimeout(() => { option1.style.animation = ""; }, 1020)
 }
 
 function randomizeOption2(){
@@ -210,7 +230,7 @@ function randomizeOption2(){
     option2.style.animation = "fade-in 1s ease-in";
     option2title.innerText = reincarnation[rand_r]
     option2.style.backgroundImage = `linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.2)), url(${reincarnationsrc[rand_r]})`;
-    setTimeout(() => { option2.style.animation = ""; }, 1200)
+    setTimeout(() => { option2.style.animation = ""; }, 1020)
 }
 
 
