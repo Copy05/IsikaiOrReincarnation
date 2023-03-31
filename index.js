@@ -1,5 +1,8 @@
 /**
  * Isekai or Reincarnation a Anime Would you rather game made by Copy05
+ * "Would you like to be isekai'd to that universe or reincarnated as that entity"
+ * 
+ * I do not own these images
  * If you have complains about any images used in this game please contact me immediantly!!!
  * 
  * Copyright 2023 Copy05. All Rights Reserved.
@@ -26,7 +29,7 @@ const isekai = [
     "A fantasy world where you can respawn infinitly (RE:ZERO)",
     "A world where you can prove your love to your crush by protecting her from a evil clan that wants you both dead",
     "A pararell universe where your crush is your neighbour",
-    "A world which you're immortal but you're incapeable of feeling emotions (The Daily Life of the Immortal King)",
+    "A world which you're immortal & strong but you're incapeable of feeling emotions (The Daily Life of the Immortal King)",
     "A fantasy world where you have to fight evil magicians but you got the ability to teleport and a magical sword",
     "A world where you a have cute and hot blood related sister",
     "In the world of your favorite ecchi anime and you have daily sex with the hottest girl / boy you like.",
@@ -51,6 +54,10 @@ const isekai = [
     "Your whole class gets isekai’d to a fantasy world where you have to free the world from the demon’s curse but you are the most powerful student of the whole class (Arifureta)",
     "In a pararell universe where there's only USA",
     "In a world without lies",
+    "In a world where everyone is lazy",
+    "In the Super Mario universe (The Adventure Of Super Mario Bros 3)",
+    "In a world where there's no economy",
+    "In a world where you have to fulfill god’s last wish",
 ]
 
 const isekaisrc = [
@@ -91,6 +98,10 @@ const isekaisrc = [
     "./src/isekai/Arifureta.png",
     "./src/isekai/UnitedStatesFlag.png",
     "./src/isekai/nolie.png",
+    "./src/isekai/everyonesyawn.png",
+    "./src/isekai/smb3.png",
+    "./src/isekai/noeco.png",
+    "./src/isekai/yatoo.png",
 ]
 
 const reincarnation = [
@@ -122,16 +133,16 @@ const reincarnation = [
     "As a object that's used for self-pleasure",
     "As your brother's wife",
     "As a ghost with the abilty to take control of other humans",
-    "As a car",
-    "As a god",
-    "As a table",
+    "As a Car",
+    "As a God",
+    "As a Table",
     "As a Vending Mashine (Reborn as a Vending Machine, I Now Wander the Dungeon)",
-    "As a Sword (reincarnated as a sword)",
-    "As a slime (That Time I Got Reincarnated as a Slime)",
+    "As a Sword (Reincarnated As A Sword)",
+    "As a Slime (That Time I Got Reincarnated as a Slime)",
     "As a gun",
     "As a cute dragon girl",
     "As a Wheelchair",
-    "As a Hero",
+    "As a Hero (The Rising of the Shield Hero)",
     "As a Flower",
     "As a Train",
 ]
@@ -205,9 +216,9 @@ function randomizeOption1(){
         rand_i = Math.floor(Math.random() * isekai.length)
         rand_i = Math.floor(Math.random() * isekai.length)
     }
-    if(ri == rand_i){
+    if(ri == rand_i)
         rand_i = Math.floor(Math.random() * isekai.length)
-    }
+    
     ri = rand_i;
 
     option1.style.animation = "fade-in 1s ease-in";
@@ -222,9 +233,9 @@ function randomizeOption2(){
         rand_r = Math.floor(Math.random() * reincarnation.length)
         rand_r = Math.floor(Math.random() * reincarnation.length)
     }
-    if(rr == rand_r){
+    if(rr == rand_r)
         rand_r = Math.floor(Math.random() * reincarnation.length)
-    }
+    
     rr = rand_r;
 
     option2.style.animation = "fade-in 1s ease-in";

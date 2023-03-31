@@ -1,1 +1,7 @@
+# Windows
 Thumbs.db
+src/isekai/Thumbs.db
+src/reincarnation/Thumbs.db
+
+# Debug files
+debug.js
