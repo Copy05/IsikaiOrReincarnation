@@ -49,7 +49,7 @@ const isekai = [
     "In a world where everywhere are cute kittens",
     "In a pararell universe where there's no school",
     "In a world where you and your crush are the last survivors on this world",
-    "You’re just dying and landing in heaven",
+    "You're just dying and landing in heaven",
     "In a world where there are bunny girls",
     "Your whole class gets isekai’d to a fantasy world where you have to free the world from the demon’s curse but you are the most powerful student of the whole class (Arifureta)",
     "In a pararell universe where there's only USA",
@@ -58,6 +58,10 @@ const isekai = [
     "In the Super Mario universe (The Adventure Of Super Mario Bros 3)",
     "In a world where there's no economy",
     "In a world where you have to fulfill god’s last wish",
+    "In a pararell universe where there's only Japan",
+    "In a world where you have a cute partner on your side",
+    "In a pararell universe where all classmates wants you",
+    "In a world where a cute demon lord is your wife",
 ]
 
 const isekaisrc = [
@@ -102,6 +106,10 @@ const isekaisrc = [
     "./src/isekai/smb3.png",
     "./src/isekai/noeco.png",
     "./src/isekai/yatoo.png",
+    "./src/isekai/Flag_of_Japan.png",
+    "./src/isekai/FsjP6zGaAAEkIva.png",
+    "./src/isekai/COTEHarem.png",
+    "./src/isekai/1011708_655358341145545_1950065448_n.png",
 ]
 
 const reincarnation = [
