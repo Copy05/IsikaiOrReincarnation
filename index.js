@@ -2,8 +2,12 @@
  * Isekai or Reincarnation a Anime Would you rather game made by Copy05
  * "Would you like to be isekai'd to that universe or reincarnated as that entity"
  * 
+ * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[Concept]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ * Please do not steal this concept.
+ * 
+ * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[Copyright]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  * I do not own these images
- * If you have complains about any images used in this game please contact me immediantly!!!
+ * If you have complains about any images used in this game please contact me immediantly!
  * 
  * Copyright 2023 Copy05. All Rights Reserved.
  */
@@ -17,7 +21,7 @@ const option2title = document.getElementById('option2title')
 var ri, rr;
 
 const isekai = [
-    "A world where you have the power to nuke the world.",
+    "A world where you have the power to nuke the world. (The Eminence In Shadow)",
     "A world where you're having bad luck in life",
     "A video game world where you cannot escape but you'll find the love of your life there.",
     "A pararell universe where you're married with your crush",
@@ -28,7 +32,7 @@ const isekai = [
     "In the world of your favorite anime with your friends",
     "A fantasy world where you can respawn infinitly (RE:ZERO)",
     "A world where you can prove your love to your crush by protecting her from a evil clan that wants you both dead",
-    "A pararell universe where your crush is your neighbour",
+    "A pararell universe where your crush is your neighbour (The Angel Next Door Spoils Me Rotten)",
     "A world which you're immortal & strong but you're incapeable of feeling emotions (The Daily Life of the Immortal King)",
     "A fantasy world where you have to fight evil magicians but you got the ability to teleport and a magical sword",
     "A world where you a have cute and hot blood related sister",
@@ -62,6 +66,8 @@ const isekai = [
     "In a world where you have a cute partner on your side",
     "In a pararell universe where all classmates wants you",
     "In a world where a cute demon lord is your wife",
+    "In a world where there's only attractive asians",
+    "In a fantasy world where you have the abilty to materialize everything by drawing",
 ]
 
 const isekaisrc = [
@@ -110,6 +116,8 @@ const isekaisrc = [
     "./src/isekai/FsjP6zGaAAEkIva.png",
     "./src/isekai/COTEHarem.png",
     "./src/isekai/1011708_655358341145545_1950065448_n.png",
+    "./src/isekai/asianparadies.png",
+    "./src/isekai/drawer.png",
 ]
 
 const reincarnation = [
@@ -153,6 +161,8 @@ const reincarnation = [
     "As a Hero (The Rising of the Shield Hero)",
     "As a Flower",
     "As a Train",
+    "As your crush's dog (My Life As Inukai's Dog)",
+    "As a human who can shapeshift into other humans",
 ]
 
 const reincarnationsrc = [
@@ -196,17 +206,14 @@ const reincarnationsrc = [
     "./src/reincarnation/theshieldhero.png",
     "./src/reincarnation/kornblume110_v-fullhd.png",
     "./src/reincarnation/animtrain.png",
+    "./src/reincarnation/inukaisdog.png",
+    "./src/reincarnation/shapeshifter.png",
 ]
 
 function Firstrandomize(){
     for (let i = 0; i < 620000; i++) {
         var rand_i = Math.floor(Math.random() * isekai.length)
-        rand_i = Math.floor(Math.random() * isekai.length)
-        rand_i = Math.floor(Math.random() * isekai.length)
-
         var rand_r = Math.floor(Math.random() * reincarnation.length)
-        rand_r = Math.floor(Math.random() * reincarnation.length)
-        rand_r = Math.floor(Math.random() * reincarnation.length)
     }
     ri = rand_i;
     rr = rand_r;
@@ -221,8 +228,6 @@ function Firstrandomize(){
 function randomizeOption1(){
     for (let i = 0; i < 620000; i++) {
         var rand_i = Math.floor(Math.random() * isekai.length)
-        rand_i = Math.floor(Math.random() * isekai.length)
-        rand_i = Math.floor(Math.random() * isekai.length)
     }
     if(ri == rand_i)
         rand_i = Math.floor(Math.random() * isekai.length)
@@ -238,8 +243,6 @@ function randomizeOption1(){
 function randomizeOption2(){
     for (let i = 0; i < 620000; i++) {
         var rand_r = Math.floor(Math.random() * reincarnation.length)
-        rand_r = Math.floor(Math.random() * reincarnation.length)
-        rand_r = Math.floor(Math.random() * reincarnation.length)
     }
     if(rr == rand_r)
         rand_r = Math.floor(Math.random() * reincarnation.length)
