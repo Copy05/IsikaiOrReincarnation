@@ -68,6 +68,8 @@ const isekai = [
     "In a world where a cute demon lord is your wife",
     "In a world where there's only attractive asians",
     "In a fantasy world where you have the abilty to materialize everything by drawing",
+    "In a world where your lies become true",
+    "In a pararell universe where your waifu is real",
 ]
 
 const isekaisrc = [
@@ -118,6 +120,8 @@ const isekaisrc = [
     "./src/isekai/1011708_655358341145545_1950065448_n.png",
     "./src/isekai/asianparadies.png",
     "./src/isekai/drawer.png",
+    "./src/isekai/aOrBL9r_460s.png",
+    "./src/isekai/blondinewaifu.png",
 ]
 
 const reincarnation = [
