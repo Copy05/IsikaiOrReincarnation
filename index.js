@@ -161,8 +161,12 @@ const reincarnation = [
     "As a Hero (The Rising of the Shield Hero)",
     "As a Flower",
     "As a Train",
-    "As your crush's dog (My Life As Inukai's Dog)",
+    "You wake up as your crush's dog (My Life As Inukai's Dog)",
     "As a human who can shapeshift into other humans",
+    "As a water mage who can control water",
+    "As a Broom",
+    "As a Cute Fox-Girl",
+    "As a attractive tan-skinned girl",
 ]
 
 const reincarnationsrc = [
@@ -208,6 +212,10 @@ const reincarnationsrc = [
     "./src/reincarnation/animtrain.png",
     "./src/reincarnation/inukaisdog.png",
     "./src/reincarnation/shapeshifter.png",
+    "./src/reincarnation/watermagenoelle.png",
+    "./src/reincarnation/broom.png",
+    "./src/reincarnation/cutefoxgirl.png",
+    "./src/reincarnation/tannedskinwaifu.png",
 ]
 
 function Firstrandomize(){
@@ -254,7 +262,6 @@ function randomizeOption2(){
     option2.style.backgroundImage = `linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.2)), url(${reincarnationsrc[rand_r]})`;
     setTimeout(() => { option2.style.animation = ""; }, 1020)
 }
-
 
 document.addEventListener('DOMContentLoaded', (e) => {
     Firstrandomize();
