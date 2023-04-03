@@ -36,7 +36,7 @@ const isekai = [
     "A world which you're immortal & strong but you're incapeable of feeling emotions (The Daily Life of the Immortal King)",
     "A fantasy world where you have to fight evil magicians but you got the ability to teleport and a magical sword",
     "A world where you a have cute and hot blood related sister",
-    "In the world of your favorite ecchi anime and you have daily sex with the hottest girl / boy you like.",
+    "In the world of your favorite ecchi anime and you have daily fun with the hottest girl / boy you like.",
     "A world where you have to protect your sister from a evil group that wants her dead",
     "A world where you're the president",
     "A pararell universe where you're very powerful and you're not allowed to show your identity because you're concidered as thread and targetted for elimination",
@@ -69,7 +69,8 @@ const isekai = [
     "In a world where there's only attractive asians",
     "In a fantasy world where you have the abilty to materialize everything by drawing",
     "In a world where your lies become true",
-    "In a pararell universe where your waifu is real",
+    "In a pararell universe where your dream girl is your wife",
+    "In a world where you don't to worry about the bad things happening",
 ]
 
 const isekaisrc = [
@@ -122,6 +123,7 @@ const isekaisrc = [
     "./src/isekai/drawer.png",
     "./src/isekai/aOrBL9r_460s.png",
     "./src/isekai/blondinewaifu.png",
+    "./src/isekai/tiredgirl.png",
 ]
 
 const reincarnation = [
