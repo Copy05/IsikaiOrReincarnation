@@ -74,7 +74,8 @@ const isekai = [
     "In a pararell world where everyone is polite",
     "In a pararell world where there's no education hell",
     "In a world where you and your friends are stranded in a lonely island but you cannot starve or dehydrate",
-    "In a world where only summer exists."
+    "In a world where only summer exists.",
+    "In a world where everything gets decided by playing chess",
 ]
 
 const isekaisrc = [
@@ -132,6 +133,7 @@ const isekaisrc = [
     "./src/isekai/noeducation.png",
     "./src/isekai/lostisland.png",
     "./src/isekai/Are-You-Lost-Newsbild-januar-2022-696x344.png",
+    "./src/isekai/ChessStartingPosition.png",
 ]
 
 const reincarnation = [
@@ -183,6 +185,8 @@ const reincarnation = [
     "As a attractive tan-skinned girl",
     "As a Streetlamp",
     "As a magician which can use real magic (Magic Kaito 1412)",
+    "As your dream girl",
+    "As someone's phone",
 ]
 
 const reincarnationsrc = [
@@ -234,6 +238,8 @@ const reincarnationsrc = [
     "./src/reincarnation/tannedskinwaifu.png",
     "./src/reincarnation/streetlamp.png",
     "./src/reincarnation/kaitokidmagician.png",
+    "./src/reincarnation/blondinewaifu02.png",
+    "./src/reincarnation/phor.png",
 ]
 
 function Firstrandomize(){
