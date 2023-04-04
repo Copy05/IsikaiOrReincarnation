@@ -63,7 +63,7 @@ const isekai = [
     "In a world where there's no economy",
     "In a world where you have to fulfill god’s last wish",
     "In a pararell universe where there's only Japan",
-    "In a world where you have a cute partner on your side",
+    "In a world where there's lots of evil groups but you have a cute partner on your side",
     "In a pararell universe where all classmates wants you",
     "In a world where a cute demon lord is your wife",
     "In a world where there's only attractive asians",
@@ -76,6 +76,7 @@ const isekai = [
     "In a world where you and your friends are stranded in a lonely island but you cannot starve or dehydrate",
     "In a world where only summer exists.",
     "In a world where everything gets decided by playing chess",
+    "In a fantasy world where you don't understand their language and have to use a special-translator, but the people you're the closest with in this world are speaking your language.",
 ]
 
 const isekaisrc = [
@@ -134,6 +135,7 @@ const isekaisrc = [
     "./src/isekai/lostisland.png",
     "./src/isekai/Are-You-Lost-Newsbild-januar-2022-696x344.png",
     "./src/isekai/ChessStartingPosition.png",
+    "./src/isekai/translatorg.png",
 ]
 
 const reincarnation = [
@@ -142,7 +144,7 @@ const reincarnation = [
     "As a trash can",
     "As truck-kun",
     "As yourself but younger (Erased)",
-    "As a girl in the same world",
+    "As a girl in the same world (ONIMAI)",
     "As your sister's husband",
     "As a cute and beautiful girl (Date A Live)",
     "As a powerful mage but you often cannot control your magic and there's a small chance that you nuke the whole world",
@@ -187,6 +189,9 @@ const reincarnation = [
     "As a magician which can use real magic (Magic Kaito 1412)",
     "As your dream girl",
     "As someone's phone",
+    "As a smart person but you're extremely smart when using your brain unawarely and when you're aware about using your brain you're average",
+    "As a inanimated object but you cannot think, talk or move you don't even have a soul or a conciousness.",
+    "As a eco-friendly plastic straw that wants to be the most eco-friendliest and powerful plastic on the world",
 ]
 
 const reincarnationsrc = [
@@ -240,6 +245,9 @@ const reincarnationsrc = [
     "./src/reincarnation/kaitokidmagician.png",
     "./src/reincarnation/blondinewaifu02.png",
     "./src/reincarnation/phor.png",
+    "./src/reincarnation/sisbesmort.png",
+    "./src/reincarnation/cubees.png",
+    "./src/reincarnation/plastikaspraw.png",
 ]
 
 function Firstrandomize(){
