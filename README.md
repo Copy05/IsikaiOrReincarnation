@@ -20,28 +20,28 @@ if you're a copyright holder of any of these images please [contact](https://twi
 
 **Inspired from these Animes:**
 
-<i style="color:rgb(255,180,250)">Pink means ecchi or erotic</i>
+<i style="color:rgb(255,180,250)">[R] Pink means ecchi or erotic</i>
 
 - [The Eminence in Shadow](https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute)
 - [Overlord](https://www.crunchyroll.com/series/G69PZ5PDY/overlord)
 - [RE:ZERO](https://www.crunchyroll.com/series/GRGG9798R/rezero--starting-life-in-another-world-)
 - [The Angel Next Door Spoils Me Rotten](https://www.crunchyroll.com/series/G9VHN91DJ/the-angel-next-door-spoils-me-rotten)
 - [The Daily Life of the Immortal King](https://www.crunchyroll.com/series/GZJH3DJ8E/the-daily-life-of-the-immortal-king)
-- <a href="https://www.crunchyroll.com/series/GYZJXWWGR/how-not-to-summon-a-demon-lord" style="color:rgb(255,180,250)">How Not to Summon a Demon Lord</a>
+- <a href="https://www.crunchyroll.com/series/GYZJXWWGR/how-not-to-summon-a-demon-lord" style="color:rgb(255,180,250)">[R] How Not to Summon a Demon Lord</a>
 - [In Another World With My Smartphone](https://www.crunchyroll.com/series/GYQ4ZWV46/in-another-world-with-my-smartphone)
-- <a href="https://myanimelist.net/anime/19815/No_Game_No_Life" style="color:rgb(255,180,250)">No Game No Life</a>
+- <a href="https://myanimelist.net/anime/19815/No_Game_No_Life" style="color:rgb(255,180,250)">[R] No Game No Life</a>
 - [Arifureta](https://www.crunchyroll.com/series/G4PH0WXD1/arifureta-from-commonplace-to-worlds-strongest)
 - [ERASED](https://www.crunchyroll.com/series/GYGG92K7Y/erased)
 - [ONIMAI - I'm Now Your Sister!](https://www.crunchyroll.com/series/GZJH3D0P5/onimai-im-now-your-sister)
 - [Date A Life](https://www.crunchyroll.com/series/GYEX5E1G6/date-a-live)
 - [Detective Conan (Case Closed)](https://www.crunchyroll.com/series/G6JQVM3ER/case-closed-detective-conan)
 - [The Devil Is a Part-Timer!](https://www.crunchyroll.com/series/GR75Z5KKY/the-devil-is-a-part-timer)
-- <a href="https://www.crunchyroll.com/series/G67570P3R/the-testament-of-sister-new-devil" style="color:rgb(255,180,250)">The Testament Of Sister New Devil</a>
+- <a href="https://www.crunchyroll.com/series/G67570P3R/the-testament-of-sister-new-devil" style="color:rgb(255,180,250)">[R] The Testament Of Sister New Devil</a>
 - [Reborn as a Vending Machine, I Now Wander the Dungeon](https://myanimelist.net/manga/99627/Jidou_Hanbaiki_ni_Umarekawatta_Ore_wa_Meikyuu_wo_Samayou)
 - [Reincarnated As A Sword](https://myanimelist.net/anime/49891/Tensei_shitara_Ken_deshita)
 - [That Time I Got Reincarnated as a Slime](https://www.crunchyroll.com/series/GYZJ43JMR/that-time-i-got-reincarnated-as-a-slime)
 - [The Rising of the Shield Hero](https://www.crunchyroll.com/series/G6W4QKX0R/the-rising-of-the-shield-hero)
-- <a href="https://myanimelist.net/anime/51265/Inu_ni_Nattara_Suki_na_Hito_ni_Hirowareta" style="color:rgb(255,180,250)">My Life As Inukai's Dog</a>
+- <a href="https://myanimelist.net/anime/51265/Inu_ni_Nattara_Suki_na_Hito_ni_Hirowareta" style="color:rgb(255,180,250)">[R] My Life As Inukai's Dog</a>
 - [Magic Kaito 1412](https://www.crunchyroll.com/series/GRDQN0M9Y/magic-kaito-1412)
 
 
