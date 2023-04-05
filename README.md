@@ -20,7 +20,7 @@ if you're a copyright holder of any of these images please [contact](https://twi
 
 **Inspired from these Animes:**
 
-<i style="color:rgb(255,180,250)">[R] Pink means ecchi or erotic</i>
+<i style="color:rgb(255,180,250)">[R] or Pink means ecchi or erotic</i>
 
 - [The Eminence in Shadow](https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute)
 - [Overlord](https://www.crunchyroll.com/series/G69PZ5PDY/overlord)
@@ -43,7 +43,7 @@ if you're a copyright holder of any of these images please [contact](https://twi
 - [The Rising of the Shield Hero](https://www.crunchyroll.com/series/G6W4QKX0R/the-rising-of-the-shield-hero)
 - <a href="https://myanimelist.net/anime/51265/Inu_ni_Nattara_Suki_na_Hito_ni_Hirowareta" style="color:rgb(255,180,250)">[R] My Life As Inukai's Dog</a>
 - [Magic Kaito 1412](https://www.crunchyroll.com/series/GRDQN0M9Y/magic-kaito-1412)
-
+- [Norogami](https://www.crunchyroll.com/series/G6WEV3WM6/noragami)
 
 
 **Youtube:**
@@ -54,3 +54,5 @@ if you're a copyright holder of any of these images please [contact](https://twi
 **Reddit:**
 
 [An isekai where the MC reincarnated as a plastic straw and is its goal to be the strongest plastic in the world](https://www.reddit.com/r/Isekai/comments/jwpju7/comment/gcshkbu/?utm_source=share&utm_medium=web2x&context=3)
+
+[Get in Boys, We're Going to Rob a Bank in Another World!](https://www.reddit.com/r/IsekaiTitles/comments/11ihitb/get_in_boys_were_going_to_rob_a_bank_in_another/?utm_source=share&utm_medium=web2x&context=3)

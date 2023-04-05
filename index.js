@@ -77,6 +77,8 @@ const isekai = [
     "In a world where only summer exists.",
     "In a world where everything gets decided by playing chess",
     "In a fantasy world where you don't understand their language and have to use a special-translator, but the people you're the closest with in this world are speaking your language.",
+    "In a fantasy world where you lost the memory of your previous life",
+    "Transported to a new universe where you have to rob a bank in another world with your friend and it's guaranteed that you'll sucseed",
 ]
 
 const isekaisrc = [
@@ -136,6 +138,8 @@ const isekaisrc = [
     "./src/isekai/Are-You-Lost-Newsbild-januar-2022-696x344.png",
     "./src/isekai/ChessStartingPosition.png",
     "./src/isekai/translatorg.png",
+    "./src/isekai/GetImageWithNamedSize.png",
+    "./src/isekai/gochuumon-ep7-robbery.png",
 ]
 
 const reincarnation = [
@@ -192,6 +196,8 @@ const reincarnation = [
     "As a smart person but you're extremely smart when using your brain unawarely and when you're aware about using your brain you're average",
     "As a inanimated object but you cannot think, talk or move you don't even have a soul or a conciousness.",
     "As a eco-friendly plastic straw that wants to be the most eco-friendliest and powerful plastic on the world",
+    "You're staying dead but you can watch how people live after you died and can talk with other dead people",
+    "As a peanut",
 ]
 
 const reincarnationsrc = [
@@ -248,6 +254,8 @@ const reincarnationsrc = [
     "./src/reincarnation/sisbesmort.png",
     "./src/reincarnation/cubees.png",
     "./src/reincarnation/plastikaspraw.png",
+    "./src/reincarnation/Top-10-Supernatural-Anime-With-Ghosts-Spirits-noragami.png",
+    "./src/reincarnation/800px-ARS_peanuts.png",
 ]
 
 function Firstrandomize(){
