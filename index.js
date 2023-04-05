@@ -79,6 +79,7 @@ const isekai = [
     "In a fantasy world where you don't understand their language and have to use a special-translator, but the people you're the closest with in this world are speaking your language.",
     "In a fantasy world where you lost the memory of your previous life",
     "Transported to a new universe where you have to rob a bank in another world with your friend and it's guaranteed that you'll sucseed",
+    "In your own anime world",
 ]
 
 const isekaisrc = [
@@ -140,6 +141,7 @@ const isekaisrc = [
     "./src/isekai/translatorg.png",
     "./src/isekai/GetImageWithNamedSize.png",
     "./src/isekai/gochuumon-ep7-robbery.png",
+    "./src/isekai/the-eminence-in-shadow-cid-visual.png",
 ]
 
 const reincarnation = [
@@ -198,6 +200,7 @@ const reincarnation = [
     "As a eco-friendly plastic straw that wants to be the most eco-friendliest and powerful plastic on the world",
     "You're staying dead but you can watch how people live after you died and can talk with other dead people",
     "As a peanut",
+    "As a Ant",
 ]
 
 const reincarnationsrc = [
@@ -256,6 +259,7 @@ const reincarnationsrc = [
     "./src/reincarnation/plastikaspraw.png",
     "./src/reincarnation/Top-10-Supernatural-Anime-With-Ghosts-Spirits-noragami.png",
     "./src/reincarnation/800px-ARS_peanuts.png",
+    "./src/reincarnation/1500.png",
 ]
 
 function Firstrandomize(){

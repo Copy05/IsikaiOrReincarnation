@@ -48,11 +48,11 @@ if you're a copyright holder of any of these images please [contact](https://twi
 
 **Youtube:**
 
-[「焚吐 × みやかわくん - 神風エクスプレス」 Takuto - Kamikaze Express](https://www.youtube.com/watch?v=3fuIkpN3Jwo)<br>
-[ONIMAI Opening](https://www.youtube.com/watch?v=cHcMHceZEuk)
+- [「焚吐 × みやかわくん - 神風エクスプレス」 Takuto - Kamikaze Express](https://www.youtube.com/watch?v=3fuIkpN3Jwo)
+- [ONIMAI Opening](https://www.youtube.com/watch?v=cHcMHceZEuk)
 
 **Reddit:**
 
-[An isekai where the MC reincarnated as a plastic straw and is its goal to be the strongest plastic in the world](https://www.reddit.com/r/Isekai/comments/jwpju7/comment/gcshkbu/?utm_source=share&utm_medium=web2x&context=3)
-
-[Get in Boys, We're Going to Rob a Bank in Another World!](https://www.reddit.com/r/IsekaiTitles/comments/11ihitb/get_in_boys_were_going_to_rob_a_bank_in_another/?utm_source=share&utm_medium=web2x&context=3)
+- [An isekai where the MC reincarnated as a plastic straw and is its goal to be the strongest plastic in the world](https://www.reddit.com/r/Isekai/comments/jwpju7/comment/gcshkbu/)
+- [Get in Boys, We're Going to Rob a Bank in Another World!](https://www.reddit.com/r/IsekaiTitles/comments/11ihitb/get_in_boys_were_going_to_rob_a_bank_in_another/)
+- [I woke up in a world made up of all my failed fiction ideas!](https://www.reddit.com/r/IsekaiTitles/comments/z2ds9w/i_woke_up_in_a_world_made_up_of_all_my_failed/)
