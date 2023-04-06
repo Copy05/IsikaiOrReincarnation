@@ -9,8 +9,6 @@ if you're a copyright holder of any of these images please [contact](https://twi
 
 # Credits
 
-*Credits are incomplete*
-
 **Artists (Twitter):**
 
 [@flam_pomme](https://twitter.com/flam_pomme)<br> 
@@ -44,11 +42,13 @@ if you're a copyright holder of any of these images please [contact](https://twi
 - <a href="https://myanimelist.net/anime/51265/Inu_ni_Nattara_Suki_na_Hito_ni_Hirowareta" style="color:rgb(255,180,250)">[R] My Life As Inukai's Dog</a>
 - [Magic Kaito 1412](https://www.crunchyroll.com/series/GRDQN0M9Y/magic-kaito-1412)
 - [Norogami](https://www.crunchyroll.com/series/G6WEV3WM6/noragami)
+- [Maoyu: Archenemy & Hero](https://www.crunchyroll.com/series/G63VWP9VY/maoyu)
 
 
 **Youtube:**
 
 - [「焚吐 × みやかわくん - 神風エクスプレス」 Takuto - Kamikaze Express](https://www.youtube.com/watch?v=3fuIkpN3Jwo)
+- [＜ノラガミARAGOTO＞OPテーマ THE ORAL CIGARETTES「狂乱 Hey Kids!!」](https://www.youtube.com/watch?v=C-o8pTi6vd8)
 - [ONIMAI Opening](https://www.youtube.com/watch?v=cHcMHceZEuk)
 
 **Reddit:**

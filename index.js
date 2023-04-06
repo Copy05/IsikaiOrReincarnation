@@ -73,13 +73,14 @@ const isekai = [
     "In a world where you don't to worry about the bad things happening",
     "In a pararell world where everyone is polite",
     "In a pararell world where there's no education hell",
-    "In a world where you and your friends are stranded in a lonely island but you cannot starve or dehydrate",
+    "In a world where you and your friends are stranded in a lonely island",
     "In a world where only summer exists.",
     "In a world where everything gets decided by playing chess",
     "In a fantasy world where you don't understand their language and have to use a special-translator, but the people you're the closest with in this world are speaking your language.",
     "In a fantasy world where you lost the memory of your previous life",
     "Transported to a new universe where you have to rob a bank in another world with your friend and it's guaranteed that you'll sucseed",
     "In your own anime world",
+    "In a world where sexism & racism dosn't exist",
 ]
 
 const isekaisrc = [
@@ -142,6 +143,7 @@ const isekaisrc = [
     "./src/isekai/GetImageWithNamedSize.png",
     "./src/isekai/gochuumon-ep7-robbery.png",
     "./src/isekai/the-eminence-in-shadow-cid-visual.png",
+    "./src/isekai/Untitled_design-14.png",
 ]
 
 const reincarnation = [
@@ -201,6 +203,7 @@ const reincarnation = [
     "You're staying dead but you can watch how people live after you died and can talk with other dead people",
     "As a peanut",
     "As a Ant",
+    "As a guitar hero",
 ]
 
 const reincarnationsrc = [
@@ -260,6 +263,7 @@ const reincarnationsrc = [
     "./src/reincarnation/Top-10-Supernatural-Anime-With-Ghosts-Spirits-noragami.png",
     "./src/reincarnation/800px-ARS_peanuts.png",
     "./src/reincarnation/1500.png",
+    "./src/reincarnation/therisingoftheguitarhero.png",
 ]
 
 function Firstrandomize(){
