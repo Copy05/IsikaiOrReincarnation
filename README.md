@@ -21,6 +21,7 @@ if you're a copyright holder of any of these images please [contact](https://twi
 <i style="color:rgb(255,180,250)">[R] or Pink means ecchi or erotic</i>
 
 - [The Eminence in Shadow](https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute)
+- [Kakegurui](https://myanimelist.net/anime/34933/Kakegurui)
 - [Overlord](https://www.crunchyroll.com/series/G69PZ5PDY/overlord)
 - [RE:ZERO](https://www.crunchyroll.com/series/GRGG9798R/rezero--starting-life-in-another-world-)
 - [The Angel Next Door Spoils Me Rotten](https://www.crunchyroll.com/series/G9VHN91DJ/the-angel-next-door-spoils-me-rotten)
@@ -43,6 +44,8 @@ if you're a copyright holder of any of these images please [contact](https://twi
 - [Magic Kaito 1412](https://www.crunchyroll.com/series/GRDQN0M9Y/magic-kaito-1412)
 - [Norogami](https://www.crunchyroll.com/series/G6WEV3WM6/noragami)
 - [Maoyu: Archenemy & Hero](https://www.crunchyroll.com/series/G63VWP9VY/maoyu)
+- [My One-Hit Kill Sister](https://www.crunchyroll.com/series/G5PHNM717/my-one-hit-kill-sister)
+- [She Professed Herself Pupil Of The Wise Man](https://www.crunchyroll.com/series/GG5H5X070/she-professed-herself-pupil-of-the-wise-man)
 
 
 **Youtube:**

@@ -81,6 +81,9 @@ const isekai = [
     "Transported to a new universe where you have to rob a bank in another world with your friend and it's guaranteed that you'll sucseed",
     "In your own anime world",
     "In a world where sexism & racism dosn't exist",
+    "In a pararell world where McDonalds dosn't exist",
+    "In a fantasy world where you're a hero but in reality you're just in a coma (My One Hit Kill Sister)",
+    "In a pararell world where you always win in the casino",
 ]
 
 const isekaisrc = [
@@ -144,6 +147,9 @@ const isekaisrc = [
     "./src/isekai/gochuumon-ep7-robbery.png",
     "./src/isekai/the-eminence-in-shadow-cid-visual.png",
     "./src/isekai/Untitled_design-14.png",
+    "./src/isekai/live_6ee1cfed-6dd0-4855-8796-f84806e64fa4.png",
+    "./src/isekai/e13a3f0bb227915488bcfc06776a2e7d_eef5c778_500.png",
+    "./src/isekai/MV5BYjEzM2M5M2EtYmU0NC00MjAxLWEzNDYtZGUwN2M2ZTA3MWJkXkEyXkFqcGdeQXVyMzgxODM4NjM.png",
 ]
 
 const reincarnation = [
@@ -182,7 +188,7 @@ const reincarnation = [
     "As a Sword (Reincarnated As A Sword)",
     "As a Slime (That Time I Got Reincarnated as a Slime)",
     "As a gun",
-    "As a cute dragon girl",
+    "As a Dragon Girl",
     "As a Wheelchair",
     "As a Hero (The Rising of the Shield Hero)",
     "As a Flower",
@@ -191,7 +197,7 @@ const reincarnation = [
     "As a human who can shapeshift into other humans",
     "As a water mage who can control water",
     "As a Broom",
-    "As a Cute Fox-Girl",
+    "As a Fox-Girl",
     "As a attractive tan-skinned girl",
     "As a Streetlamp",
     "As a magician which can use real magic (Magic Kaito 1412)",
@@ -204,6 +210,9 @@ const reincarnation = [
     "As a peanut",
     "As a Ant",
     "As a guitar hero",
+    "As the Main Character",
+    "As a Bunny",
+    "As a Wise Man (She Professed Herself Pupil Of The Wise Man)",
 ]
 
 const reincarnationsrc = [
@@ -264,6 +273,9 @@ const reincarnationsrc = [
     "./src/reincarnation/800px-ARS_peanuts.png",
     "./src/reincarnation/1500.png",
     "./src/reincarnation/therisingoftheguitarhero.png",
+    "./src/reincarnation/The-Misfit-of-Demon-King-Academy-Newsbild-Mai-2021-696x392.png",
+    "./src/reincarnation/81hz4Pssp4L.png",
+    "./src/reincarnation/DunbalfGanadorefAnime.png",
 ]
 
 function Firstrandomize(){
