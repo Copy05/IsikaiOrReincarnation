@@ -84,6 +84,15 @@ const isekai = [
     "In a pararell world where McDonalds dosn't exist",
     "In a fantasy world where you're a hero but in reality you're just in a coma (My One Hit Kill Sister)",
     "In a pararell world where you always win in the casino",
+    "In a world without Water",
+    "In a world where you’re the only one alive",
+    "In a the world of CS:GO (CS:GO)",
+    "In a pararell world where you own Sony",
+    "In a pararell world where the streets is deadly",
+    "In a world where you’re too close to your sibling",
+    "You and your Crush wake up in a window- / door- less white room without cloths and belongings",
+    "In a world where everyone speaks english",
+    "In a pararell world which goes like you always imagined",
 ]
 
 const isekaisrc = [
@@ -150,6 +159,15 @@ const isekaisrc = [
     "./src/isekai/live_6ee1cfed-6dd0-4855-8796-f84806e64fa4.png",
     "./src/isekai/e13a3f0bb227915488bcfc06776a2e7d_eef5c778_500.png",
     "./src/isekai/MV5BYjEzM2M5M2EtYmU0NC00MjAxLWEzNDYtZGUwN2M2ZTA3MWJkXkEyXkFqcGdeQXVyMzgxODM4NjM.png",
+    "./src/isekai/sterling-tiger-trail-dry-pond-darrohn-engineering-scaled.png",
+    "./src/isekai/csm_2009414563904707103_adcf8b823d.png",
+    "./src/isekai/capsule_616x353.png",
+    "./src/isekai/SonyLogoDrownownload.png",
+    "./src/isekai/skyscraper-wolkenkratzer.png",
+    "./src/isekai/b82a616ef0bb6907796ce793645a63e5.png",
+    "./src/isekai/WHITEROOM_1303510161-170667a.png",
+    "./src/isekai/Flag_of_the_United_Kingdom_svg.png",
+    "./src/isekai/thumbsup1.png",
 ]
 
 const reincarnation = [
@@ -213,6 +231,10 @@ const reincarnation = [
     "As the Main Character",
     "As a Bunny",
     "As a Wise Man (She Professed Herself Pupil Of The Wise Man)",
+    "As a Entrepreneur",
+    "As a Pillow",
+    "As a Pencil",
+    "As a bird",
 ]
 
 const reincarnationsrc = [
@@ -276,6 +298,10 @@ const reincarnationsrc = [
     "./src/reincarnation/The-Misfit-of-Demon-King-Academy-Newsbild-Mai-2021-696x392.png",
     "./src/reincarnation/81hz4Pssp4L.png",
     "./src/reincarnation/DunbalfGanadorefAnime.png",
+    "./src/reincarnation/entrepreneur151654-franchise.png",
+    "./src/reincarnation/pillow-thumb.png",
+    "./src/reincarnation/550px-nowatermark-Hold-a-Pencil-Step-3-Version-5.png",
+    "./src/reincarnation/bird-349026__480.png",
 ]
 
 function Firstrandomize(){
