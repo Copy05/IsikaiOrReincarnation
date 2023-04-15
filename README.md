@@ -61,4 +61,4 @@ if you're a copyright holder of any of these images please [contact](https://twi
 - [I woke up in a world made up of all my failed fiction ideas!](https://www.reddit.com/r/IsekaiTitles/comments/z2ds9w/i_woke_up_in_a_world_made_up_of_all_my_failed/)
 
 # Visits
-https://count.getloli.com/get/@Copy05-IsekaiOrReincarnation
+![@Copy05-IsekaiOrReincarnation](https://count.getloli.com/get/@Copy05-IsekaiOrReincarnation)
