@@ -46,6 +46,7 @@ if you're a copyright holder of any of these images please [contact](https://twi
 - [Maoyu: Archenemy & Hero](https://www.crunchyroll.com/series/G63VWP9VY/maoyu)
 - [My One-Hit Kill Sister](https://www.crunchyroll.com/series/G5PHNM717/my-one-hit-kill-sister)
 - [She Professed Herself Pupil Of The Wise Man](https://www.crunchyroll.com/series/GG5H5X070/she-professed-herself-pupil-of-the-wise-man)
+- [[R] KamiKatsu](https://www.crunchyroll.com/series/GNVHKNP4J/kamikatsu-working-for-god-in-a-godless-world)
 
 
 **Youtube:**
@@ -59,6 +60,3 @@ if you're a copyright holder of any of these images please [contact](https://twi
 - [An isekai where the MC reincarnated as a plastic straw and is its goal to be the strongest plastic in the world](https://www.reddit.com/r/Isekai/comments/jwpju7/comment/gcshkbu/)
 - [Get in Boys, We're Going to Rob a Bank in Another World!](https://www.reddit.com/r/IsekaiTitles/comments/11ihitb/get_in_boys_were_going_to_rob_a_bank_in_another/)
 - [I woke up in a world made up of all my failed fiction ideas!](https://www.reddit.com/r/IsekaiTitles/comments/z2ds9w/i_woke_up_in_a_world_made_up_of_all_my_failed/)
-
-# Visits
-![@Copy05-IsekaiOrReincarnation](https://count.getloli.com/get/@Copy05-IsekaiOrReincarnation)

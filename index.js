@@ -93,6 +93,7 @@ const isekai = [
     "You and your Crush wake up in a window- / door- less white room without cloths and belongings",
     "In a world where everyone speaks english",
     "In a pararell world which goes like you always imagined",
+    "In world where your friend turns into a girl (KamiKatsu)",
 ]
 
 const isekaisrc = [
@@ -168,6 +169,7 @@ const isekaisrc = [
     "./src/isekai/WHITEROOM_1303510161-170667a.png",
     "./src/isekai/Flag_of_the_United_Kingdom_svg.png",
     "./src/isekai/thumbsup1.png",
+    "./src/isekai/KamiKatsumaxresdefault.png",
 ]
 
 const reincarnation = [
