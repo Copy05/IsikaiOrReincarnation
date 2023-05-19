@@ -237,6 +237,7 @@ const reincarnation = [
     "As a Pillow",
     "As a Pencil",
     "As a bird",
+    "As your favorite's child (Oshi no ko)",
 ]
 
 const reincarnationsrc = [
@@ -304,6 +305,7 @@ const reincarnationsrc = [
     "./src/reincarnation/pillow-thumb.png",
     "./src/reincarnation/550px-nowatermark-Hold-a-Pencil-Step-3-Version-5.png",
     "./src/reincarnation/bird-349026__480.png",
+    "./src/reincarnation/Ai-Hoshino.png",
 ]
 
 function Firstrandomize(){
