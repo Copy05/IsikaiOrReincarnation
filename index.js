@@ -95,6 +95,9 @@ const isekai = [
     "In a pararell world which goes like you always imagined",
     "In world where your friend turns into a girl (KamiKatsu)",
     "In a pararell world where your wife isn't a human. (Chainsaw Man)",
+    "In a pararell world where there is a never ending winter. (Girl Sauce: Hokkaido Gals)",
+    "In a world where social media is banned.",
+    "In a world where you can marry more than 1 girl (Polygamy) (Girlfriend Girlfriend)"
 ]
 
 const isekaisrc = [
@@ -172,6 +175,9 @@ const isekaisrc = [
     "./src/isekai/thumbsup1.png",
     "./src/isekai/KamiKatsumaxresdefault.png",
     "./src/isekai/sample_feaeca634f30d49ceee2b21f87d1e476.png",
+    "./src/isekai/hokkaidogirlsareadorable_pv2screenshot.png",
+    "./src/isekai/ban-social-media.png",
+    "./src/isekai/7df1c-16849272260713-1920-min.png",
 ]
 
 const reincarnation = [
@@ -240,6 +246,7 @@ const reincarnation = [
     "As a Pencil",
     "As a bird",
     "As your favorite's child (Oshi no ko)",
+    "As a bunny girl at your school"
 ]
 
 const reincarnationsrc = [
@@ -308,6 +315,7 @@ const reincarnationsrc = [
     "./src/reincarnation/550px-nowatermark-Hold-a-Pencil-Step-3-Version-5.png",
     "./src/reincarnation/bird-349026__480.png",
     "./src/reincarnation/Ai-Hoshino.png",
+    "./src/reincarnation/girlfriend_bunny.jpg",
 ]
 
 function Firstrandomize(){
