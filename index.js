@@ -86,7 +86,7 @@ const isekai = [
     "In a pararell world where you always win in the casino",
     "In a world without Water",
     "In a world where you’re the only one alive",
-    "In a the world of CS:GO (CS:GO)",
+    "In a the world of CS:GO (RIP CS:GO)",
     "In a pararell world where you own Sony",
     "In a pararell world where the streets is deadly",
     "In a world where you’re too close to your sibling",
@@ -97,7 +97,7 @@ const isekai = [
     "In a pararell world where your wife isn't a human. (Chainsaw Man)",
     "In a pararell world where there is a never ending winter. (Girl Sauce: Hokkaido Gals)",
     "In a world where social media is banned.",
-    "In a world where you can marry more than 1 girl (Polygamy) (Girlfriend Girlfriend)"
+    "In a world where you can legally marry more than 1 girl (Polygamy) (Girlfriend Girlfriend)"
 ]
 
 const isekaisrc = [
@@ -246,7 +246,9 @@ const reincarnation = [
     "As a Pencil",
     "As a bird",
     "As your favorite's child (Oshi no ko)",
-    "As a bunny girl at your school"
+    "As a bunny girl at your school",
+    "As a Monkey",
+    "As the person you always hated to become."
 ]
 
 const reincarnationsrc = [
@@ -316,6 +318,8 @@ const reincarnationsrc = [
     "./src/reincarnation/bird-349026__480.png",
     "./src/reincarnation/Ai-Hoshino.png",
     "./src/reincarnation/girlfriend_bunny.jpg",
+    "https://static.wikia.nocookie.net/the-official-cliveism/images/5/5f/Monke.jpg/revision/latest?cb=20230412130001",
+    "./src/reincarnation/0a677-16537536376093-1920.png"
 ]
 
 function Firstrandomize(){
