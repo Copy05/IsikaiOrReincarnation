@@ -318,7 +318,7 @@ const reincarnationsrc = [
     "./src/reincarnation/bird-349026__480.png",
     "./src/reincarnation/Ai-Hoshino.png",
     "./src/reincarnation/girlfriend_bunny.jpg",
-    "https://static.wikia.nocookie.net/the-official-cliveism/images/5/5f/Monke.jpg/revision/latest?cb=20230412130001",
+    "./src/reincarnation/Monke.png",
     "./src/reincarnation/0a677-16537536376093-1920.png"
 ]
 
