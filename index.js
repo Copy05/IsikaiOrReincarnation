@@ -9,7 +9,7 @@
  * I do not own these images
  * If you have complains about any images used in this game please contact me immediantly!
  * 
- * Copyright 2023 Copy05. All Rights Reserved.
+ * Copyright 2023 - 2024 Copy05. All Rights Reserved.
  */
 
 const option1 = document.getElementById('option1')
@@ -97,7 +97,8 @@ const isekai = [
     "In a pararell world where your wife isn't a human. (Chainsaw Man)",
     "In a pararell world where there is a never ending winter. (Girl Sauce: Hokkaido Gals)",
     "In a world where social media is banned.",
-    "In a world where you can legally marry more than 1 girl (Polygamy) (Girlfriend Girlfriend)"
+    "In a world where you can legally marry more than 1 girl (Polygamy) (Girlfriend Girlfriend)",
+    "In a fantasy world as a Pig (Butareba)"
 ]
 
 const isekaisrc = [
@@ -178,6 +179,7 @@ const isekaisrc = [
     "./src/isekai/hokkaidogirlsareadorable_pv2screenshot.png",
     "./src/isekai/ban-social-media.png",
     "./src/isekai/7df1c-16849272260713-1920-min.png",
+    "./src/isekai/buta-no-liver.png",
 ]
 
 const reincarnation = [
