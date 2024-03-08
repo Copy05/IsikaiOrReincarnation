@@ -98,7 +98,8 @@ const isekai = [
     "In a pararell world where there is a never ending winter. (Girl Sauce: Hokkaido Gals)",
     "In a world where social media is banned.",
     "In a world where you can legally marry more than 1 girl (Polygamy) (Girlfriend Girlfriend)",
-    "In a fantasy world as a Pig (Butareba)"
+    "In a fantasy world as a Pig (Butareba)",
+    "The rising of your dick."
 ]
 
 const isekaisrc = [
@@ -180,6 +181,7 @@ const isekaisrc = [
     "./src/isekai/ban-social-media.png",
     "./src/isekai/7df1c-16849272260713-1920-min.png",
     "./src/isekai/buta-no-liver.png",
+    "./src/isekai/TheRisingOfExcalibur.png",
 ]
 
 const reincarnation = [
@@ -247,8 +249,8 @@ const reincarnation = [
     "As a Pillow",
     "As a Pencil",
     "As a bird",
-    "As your favorite's child (Oshi no ko)",
-    "As a bunny girl at your school",
+    "As your favorite celebrity's child (Oshi no ko)",
+    "As a bunny girl",
     "As a Monkey",
     "As the person you always hated to become."
 ]
