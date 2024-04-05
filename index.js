@@ -252,7 +252,9 @@ const reincarnation = [
     "As your favorite celebrity's child (Oshi no ko)",
     "As a bunny girl",
     "As a Monkey",
-    "As the person you always hated to become."
+    "As the person you always hated to become.",
+    "As a Indian",
+    "As someone who just failed doing Tax Fraud"
 ]
 
 const reincarnationsrc = [
@@ -323,7 +325,9 @@ const reincarnationsrc = [
     "./src/reincarnation/Ai-Hoshino.png",
     "./src/reincarnation/girlfriend_bunny.jpg",
     "./src/reincarnation/Monke.png",
-    "./src/reincarnation/0a677-16537536376093-1920.png"
+    "./src/reincarnation/0a677-16537536376093-1920.png",
+    "./src/reincarnation/artworks-OZqy4cmdIeHvypNE-73d1rQ-t500x500.jpg",
+    "./src/reincarnation/6d7.jpeg"
 ]
 
 function Firstrandomize(){
