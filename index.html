@@ -12,8 +12,13 @@
     <title>Isekai or Reincarnation</title>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <script src="./index.js" defer></script>
+    <script src="./utils.js" defer></script>
+
+    <link rel="preload" href="modal.css" as="style">
+
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="mobile.css">
+    <link rel="stylesheet" href="modal.css">
 
     <meta content="en-us" property="locale"/>
     <meta content="IsekaiOrReincarnation" property="site_name">
@@ -22,15 +27,55 @@
     <meta content="#5b2ed9" data-react-helmet="true" name="theme-color">
 </head>
 <body>
-    <div id="gamecanvas">
-       <div id="option1">
+    <div id="gamecanvas" class="full-height">
+       <div id="option1" class="full-height">
             <p class="opt1ab">Isekai:</p>
             <p id="option1title">Option1</p>
        </div>
-       <div id="option2">
+       <div id="option2" class="full-height">
             <p class="opt2ab">Reincarnation:</p>
             <p id="option2title">Option2</p>
        </div> 
     </div>
+
+    <div id="disclaimerModal" class="modal">
+        <div class="modal-content">
+            <p class="modal-title">Warning:</p>
+            <p class="modal-text">This Game Contains content (Suggestive / Sexual Artworks & Profanity warning) that is not suitable for people under 16 years old.</p>
+            <div class="modal-btn-container">
+                <button class="play-button" onclick="playGame()">Play</button>
+                <!--<button class="sfw-button" onclick="continueInSFWMode()">Continue in SFW Mode</button> -->
+                <button class="exit-button" onclick="exitGame()">Exit</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function handleModal() {
+            if (getCookie('modalAgreed') !== 'true') {
+                document.getElementById('disclaimerModal').style.display = 'flex';
+            }
+        }
+
+        function closeModal() {
+            document.getElementById('disclaimerModal').style.display = 'none';
+        }
+
+        function playGame() {
+            setCookie('modalAgreed', 'true', 365);
+            closeModal();
+        }
+
+        /* function continueInSFWMode() {
+            safe_mode = true;
+            closeModal();
+        } */
+
+        function exitGame() {
+            history.back()
+        }
+
+        window.onload = handleModal;
+    </script>
 </body>
 </html>

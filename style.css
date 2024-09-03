@@ -14,7 +14,7 @@ html {
     background-color: black;
 }
 
-div {
+.full-height {
     height: 100vh;
 }
 
