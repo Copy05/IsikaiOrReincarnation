@@ -2,12 +2,23 @@
 **This Anime game** is like would you rather but you keep your choosed option just ask yourself:
 *"do i like to be isekai'd to that universe or reincarnated as that object / person?"* and let your heart & soul select for you.
 
-**Keep in mind that some content is inappropiate for people under 13 years old!** *(Suggestive Artworks & Profanity warning)* Because i wanted to include all bizzare, sexual, weird options because some of you nasty peoples.
+**Keep in mind that some content is inappropiate for people under 16 years old!** *(Suggestive Artworks & Profanity warning)* Because i wanted to include all bizzare, sexual, weird options because some of you nasty peoples.
 
 # Copyright
 if you're a copyright holder of any of these images please [contact](https://twitter.com/Copy2oo5) me immediantly.
 
 # Credits
+
+**Contributers:**
+- iamprettyandsmart
+    - **isekai:** *"In a world where there's only attractive asians"*
+    - **reincarnation:** *"Reborn as a attractive asian boy"*
+    - **reincarnation:** *"As a guitar hero"*
+- AsaphX:
+    - **reincarnation:** *"As a Entrepreneur"*
+- AnschaltenDEV
+    - **reincarnation:** *"As a Monkey"*
+    - **reincarnation:** *"As a Indian"*
 
 **Artists (Twitter):**
 
@@ -44,7 +55,7 @@ if you're a copyright holder of any of these images please [contact](https://twi
 - [Magic Kaito 1412](https://www.crunchyroll.com/series/GRDQN0M9Y/magic-kaito-1412)
 - [Norogami](https://www.crunchyroll.com/series/G6WEV3WM6/noragami)
 - [Maoyu: Archenemy & Hero](https://www.crunchyroll.com/series/G63VWP9VY/maoyu)
-- [My One-Hit Kill Sister](https://www.crunchyroll.com/series/G5PHNM717/my-one-hit-kill-sister)
+- [[R] My One-Hit Kill Sister](https://www.crunchyroll.com/series/G5PHNM717/my-one-hit-kill-sister)
 - [She Professed Herself Pupil Of The Wise Man](https://www.crunchyroll.com/series/GG5H5X070/she-professed-herself-pupil-of-the-wise-man)
 - [[R] KamiKatsu](https://www.crunchyroll.com/series/GNVHKNP4J/kamikatsu-working-for-god-in-a-godless-world)
 
